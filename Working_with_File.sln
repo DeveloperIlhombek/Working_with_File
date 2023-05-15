@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working_with_File.Solution"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLserializing", "XMLserializing\XMLserializing.csproj", "{ABA49294-C386-403A-8164-68DA3B227836}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLserializing", "XMLserializing\XMLserializing.csproj", "{ABA49294-C386-403A-8164-68DA3B227836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
