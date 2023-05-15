@@ -4,6 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working_with_File.Solution", "Working_with_File.Solution\Working_with_File.Solution.csproj", "{96DD4E1A-7478-4056-9F31-2B40816D6881}"
+
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLserializing", "XMLserializing\XMLserializing.csproj", "{ABA49294-C386-403A-8164-68DA3B227836}"
 EndProject
